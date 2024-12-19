@@ -4420,6 +4420,56 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/PorytilesTestMap/border.bin",
       "blockdata_filepath": "data/layouts/PorytilesTestMap/map.bin"
+    },
+    {
+      "id": "LAYOUT_VANIVILLE_TOWN_PLAYERS_HOUSE_1F",
+      "name": "VanivilleTown_PlayersHouse_1F_Layout",
+      "width": 15,
+      "height": 15,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/VanivilleTown_PlayersHouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/VanivilleTown_PlayersHouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VANIVILLE_TOWN_PLAYERS_HOUSE_2F",
+      "name": "VanivilleTown_PlayersHouse_2F_Layout",
+      "width": 11,
+      "height": 11,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/VanivilleTown_PlayersHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/VanivilleTown_PlayersHouse_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VANIVILLE_TOWN",
+      "name": "VanivilleTown_Layout",
+      "width": 30,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VanivilleTown/border.bin",
+      "blockdata_filepath": "data/layouts/VanivilleTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE1",
+      "name": "Route1_Layout",
+      "width": 12,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route1/border.bin",
+      "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_AQUACORDE_TOWN",
+      "name": "AquacordeTown_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/AquacordeTown/border.bin",
+      "blockdata_filepath": "data/layouts/AquacordeTown/map.bin"
     }
   ]
 }

@@ -1153,3 +1153,13 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/PorytilesTestMap/scripts.inc"
+
+	.include "data/maps/VanivilleTown_PlayersHouse_1F/scripts.inc"
+
+	.include "data/maps/VanivilleTown_PlayersHouse_2F/scripts.inc"
+
+	.include "data/maps/VanivilleTown/scripts.inc"
+
+	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/AquacordeTown/scripts.inc"

@@ -214,7 +214,9 @@
 #define MAPSEC_ALTERING_CAVE                0xD2
 #define MAPSEC_NAVEL_ROCK                   0xD3
 #define MAPSEC_TRAINER_HILL                 0xD4
-#define MAPSEC_NONE                         0xD5
+// new:
+#define MAPSEC_VANIVILLE_TOWN               0xD5
+#define MAPSEC_NONE                         0xD6
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE
@@ -223,5 +225,9 @@
 #define KANTO_MAPSEC_START  MAPSEC_PALLET_TOWN
 #define KANTO_MAPSEC_END    MAPSEC_SPECIAL_AREA
 #define KANTO_MAPSEC_COUNT (KANTO_MAPSEC_END - KANTO_MAPSEC_START + 1)
+
+#define KALOS_MAPSEC_START  MAPSEC_VANIVILLE_TOWN
+#define KALOS_MAPSEC_END    MAPSEC_VANIVILLE_TOWN
+#define KALOS_MAPSEC_COUNT  (KALOS_MAPSEC_START - KALOS_MAPSEC_END + 1)
 
 #endif //GUARD_REGIONMAPSEC_H
